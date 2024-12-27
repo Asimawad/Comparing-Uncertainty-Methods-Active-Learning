@@ -141,19 +141,6 @@ Analyzing NLL with rejection provides a deeper understanding of model calibratio
 
 ---
 
-
-### Task 4: OoD Detection
-- Perform OoD detection using:
-  - **BALD** (Epistemic)
-  - **Predictive Entropy** (Aleatoric)
-  - **Conditional Entropy**
-  - **Mahalanobis Distance**
-- Results:
-  - **ROC Curve:**
-    ![ROC Curve Placeholder](results/roc_curve.png)
-
----
-
 ### Task 4: Implementing Out-of-Distribution (OoD) Detection
 
 #### **What is OoD Detection?**
